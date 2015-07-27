@@ -1,2 +1,4 @@
 # java-ramaty
-Implementação JAVA para simulação de emissão radiativa para explosões solares. Baseado no algoritmo original Fortran de Reuven Ramaty
+A basic simulator written in Java for solar flares radiative process.
+Based on Reuven Ramaty Fortran (1969). Simulate only the Incoherent Synchrotron Radiation
+component.
